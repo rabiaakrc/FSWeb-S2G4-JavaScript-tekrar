@@ -171,7 +171,7 @@ for (let sayi in sayiSayaci) {
     tekraredensayilar.push(`${sayi} sayısı ${sayiSayaci[sayi]} kere tekrar edilmiştir.`);
   }
 }
-console.log("Tekrar eden sayılar:", tekraredensayilar);
+console.log("Tekrar eden sayılar: ", tekraredensayilar);
 
 /*  Bu satırın aşağısındaki kodları lütfen değiştirmeyin  */
 
