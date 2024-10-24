@@ -102,6 +102,8 @@ console.log(CemberinAlani(15, pi));
 
 /*  (oto test yok) sayilar dizisi içinde kaç adet sayı olduğunu konsola yazdırın */
 
+
+
 let ucetambolunenler,
   enkucuk,
   enbuyuk,
@@ -180,7 +182,7 @@ function sa() {
   return "as";
 
 
-  
+
 }
 sa();
 module.exports = {
