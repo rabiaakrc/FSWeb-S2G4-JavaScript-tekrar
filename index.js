@@ -178,6 +178,9 @@ console.log("Tekrar eden sayılar: ", tekraredensayilar);
 function sa() {
   console.log("Kodlar çalışıyor");
   return "as";
+
+
+  
 }
 sa();
 module.exports = {
